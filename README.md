@@ -80,7 +80,7 @@ Assuming you don't already have such a server running, here's how to set up Univ
         sudo mkdir search
         sudo chown <your-username> search
         sudo chgrp staff search
-        git clone ... search
+        git clone git://github.com/lhagan/universal-keyword-search.git search
      
  4. Test that everything's working so far by visiting [http://localhost/search?p=test](http://localhost/search?p=test) in your browser. You should see some search results for `test` come up.
 
