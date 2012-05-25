@@ -18,6 +18,7 @@
 		'down'	=>	"http://downforeveryoneorjustme.com/%s",
 		'a'		=>	"http://www.amazon.com/s/field-keywords=%s",
 		'w'		=>	"http://www.myweather.com/",
+		'gh'    =>  "https://github.com/search?q=%s&repo=&langOverride=&start_value=1&type=Repositories&language=",
 		
 		'_default' => "https://startpage.com/do/search?q=%s"
 	);

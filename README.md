@@ -7,6 +7,7 @@ Keyword search is a simple but powerful feature that, for example, lets you sear
  * **a**: Amazon
  * **down**: Down for Everyone or Just Me
  * **e**: eBay
+ * **gh**: GitHub (repositories)
  * **imdb**: IMDB
  * **p**: Pinboard (searches your bookmarks only)
  * **rt**: Rotten Tomatoes
