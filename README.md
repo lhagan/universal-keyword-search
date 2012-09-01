@@ -1,5 +1,7 @@
 # Universal Keyword Search
 
+**Note:** _as of Safari 6, [Safari Keyword Search](https://github.com/arnemart/SafariKeywordSearch) is back. I'm leaving this project up just in case it helps someone else, but I'm no longer using or maintaining it._
+
 If you liked [Safari Keyword Search](https://github.com/arnemart/SafariKeywordSearch) but are disappointed that it doesn't work in Safari 5.2, here's a solution. That is, if you don't mind some light hacking.
 
 Keyword search is a simple but powerful feature that, for example, lets you search Amazon for iPad cases by typing `a ipad cases` in the address bar. The following search engines are included, and you can easily add and edit as much as you want:
